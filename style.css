@@ -1,0 +1,16 @@
+
+
+canvas{
+    /*centralizando canvas no html*/
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 600px;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    
+}
